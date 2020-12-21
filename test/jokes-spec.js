@@ -15,4 +15,4 @@ describe('Random', async function() {
         // Verify status code
         expect(firstJoke.status).to.equal(100);
     });
-  });   
+  });
